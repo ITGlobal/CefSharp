@@ -5,7 +5,7 @@ param(
     [Parameter(Position = 1)]
     [string] $Version = "43.0.0-itglobal",
     [Parameter(Position = 2)]
-    [string] $AssemblyVersion = "43.0.0-itglobal",
+    [string] $AssemblyVersion = "43.0.0",
     [Parameter(Position = 3)]
     [string] $RedistVersion = "3.2357.1292-itglobal"
 )
